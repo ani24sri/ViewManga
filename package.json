@@ -4,7 +4,7 @@
   "description": "templating engine",
   "main": "index.js",
   "dependencies": {
-    "brackets-typescript": "^0.8.3"
+   
   },
   "devDependencies": {},
   "scripts": {
