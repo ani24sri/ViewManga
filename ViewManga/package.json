@@ -1,0 +1,15 @@
+{
+  "name": "viewmanga",
+  "version": "1.0.0",
+  "description": "view engine data",
+  "main": "plugins/index.js",
+  "scripts": {
+    "test": "manga"
+  },
+  "keywords": [
+    "view",
+    "templating"
+  ],
+  "author": "Anirudh Srivatav\u001b[D\u001b[D\u001b[Dstav",
+  "license": "ISC"
+}
