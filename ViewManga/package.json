@@ -1,0 +1,12 @@
+{
+  "name": "view-manga",
+  "version": "0.0.0",
+  "description": "ViewManga",
+  "main": "app.js",
+  "author": {
+    "name": "USER"
+  },
+  "devDependencies": {
+    "@types/node": "^6.0.87"
+  }
+}
