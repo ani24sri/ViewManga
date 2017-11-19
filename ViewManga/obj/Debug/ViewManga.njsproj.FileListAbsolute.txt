@@ -1,0 +1,3 @@
+C:\Users\USER\Desktop\Repos\ViewManga\ViewManga\obj\Debug\ViewManga.njsprojResolveAssemblyReference.cache
+C:\Users\USER\Desktop\Repos\ViewManga\ViewManga\obj\Debug\ViewManga.njsproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Repos\ViewManga\ViewManga\bin\Microsoft.NodejsTools.WebRole.dll
